@@ -1,0 +1,6 @@
+{
+  "name": "Control de Vehículos MIG",
+  "description": "Sistema integral de gestión vehicular MIG: control de combustible en Quetzales, mantenimiento preventivo con alertas, repuestos, hojas de campo con firma digital, reportes PDF y sincronización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
